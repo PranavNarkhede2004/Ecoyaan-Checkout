@@ -73,7 +73,7 @@ export default function ConfirmationPage() {
             Thank you for shopping with Ecoyaan. Your order <strong className="text-gray-900">{orderId}</strong> is confirmed.
           </p>
           <button
-            onClick={() => router.push('/')}
+            onClick={() => { window.location.href = '/'; }}
             className="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-semibold py-4 px-6 rounded-xl transition-all shadow-md active:scale-[0.98]"
           >
             Return to Shop
