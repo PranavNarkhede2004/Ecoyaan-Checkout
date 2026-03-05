@@ -5,7 +5,7 @@ This project is a simplified **Checkout Flow** inspired by the Ecoyaan platform.
 ## Deliverables
 
 - **Live Demo**: [Insert Vercel/Netlify Link Here]
-- **Repository**: [Insert GitHub/GitLab Link Here]
+- **Repository**: (https://github.com/PranavNarkhede2004/Ecoyaan-Checkout.git)
 
 ## Tech Stack & Architecture
 
